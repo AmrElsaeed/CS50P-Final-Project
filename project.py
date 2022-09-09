@@ -3,17 +3,7 @@ Final project for Harvard's CS50P (Intro to Python Course)
 
 Redistribution in source and binary forms, with or without modification, is not permitted.
 
-What will your software do? What features will it have? How will it be executed?
-My software is a room resrvation system, it will allow users to book either of the two room (101 or 102), the database will be an excel file that should have all the bookings.
-if there is a booking conflict, the user should get an error message and asked to choose another time.
-What new skills will you need to acquire? What topics will you need to research?
-Probably I will need to work and enhance my OOP and I need to learn tkinter GUI toolkit
-Description:
-implement a program that prompts the user for their date of birth in YYYY-MM-DD format and then sings prints how old they are in minutes,
-rounded to the nearest integer, using English words instead of numerals, just like the song from Rent, without any and between words.
-Since a user might not know the time at which they were born, assume, for simplicity, that the user was born at midnight (i.e., 00:00:00) on that date.
-And assume that the current time is also midnight. In other words, even if the user runs the program at noon, assume that it’s actually midnight, on the same date.
-Use datetime.date.today to get today’s date
+RezVroom: The room reservaation system
 
 Full Description at https://cs50.harvard.edu/python/2022/psets/8/seasons/
 
