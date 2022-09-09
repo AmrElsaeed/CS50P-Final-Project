@@ -1,6 +1,6 @@
 # RezVroom
 
-### **Video Demo:**  <[URL HERE](https://www.youtube.com/watch?v=k82ndO7uVXY)>
+### **Video Demo:**  <https://www.youtube.com/watch?v=k82ndO7uVXY>
 ---
 ### **Description:**
 RezVroom is a room reservation system that can be used to book conference/seminar/meeting rooms in a building.
